@@ -6,7 +6,7 @@ A machine learning-powered web application that detects whether a given news art
 
 ## 🚀 Live Demo
 
-👉 (https://sreejareddy993-fake-news-detector.streamlit.app)
+👉 ((https://fake-news-detector-yfme4fvgpdxfjrdpqczgq3.streamlit.app/))
 
 ---
 
